@@ -1,0 +1,41 @@
+h1{
+    text-transform: capitalize;
+    text-align: center
+}
+table{
+    width: 90%;
+    border-collapse: collapse;
+    height: 90%;
+}
+table, 
+th 
+td{
+     border: 2px solid #000 ;
+}
+th, td{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    border: 2px solid #000;
+}
+.red{
+    background-color: #F7AABF;
+}
+.green{
+    background-color: #9ACD9F;
+}
+.yellow{
+    background-color: #FBFEC3;
+}
+.blue{
+    background-color: #99C6F0;
+}
+.title{
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    font-size: 22px;
+    text-align: center;
+}
+.rotate{
+    writing-mode: vertical-rl;
+}
